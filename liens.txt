@@ -1,0 +1,2 @@
+https://myquiz3.herokuapp.com/quiz/<introduction>
+https://sofuspy3.herokuapp.com/sofuspy/run.html

@@ -1,9 +1,8 @@
 # README
-Ce dépôt contient des fichiers notebook de ma classe.
+Ce dépôt contient du cours "Programmation Python" dans des fichiers notebook.
 
-Je vait essayer à utiliser binder pour les héberger puis inviter les élèves à les éxploiter comme en classe.
+Il est connecté à une instance mybinder à l'adresse suivante :
 
 https://mybinder.org/v2/gh/kerimbm/notebooks/main
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kerimbm/notebooks/main)
-
